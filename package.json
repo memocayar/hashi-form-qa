@@ -1,0 +1,16 @@
+{
+  "name": "hashi-form-qa",
+  "version": "1.0.0",
+  "description": "Tests Playwright/TypeScript contra el formulario de postulación de Hashi",
+  "scripts": {
+    "test": "playwright test"
+  },
+  "keywords": ["playwright", "qa", "testing"],
+  "author": "Maria Emilia Mocayar Blanes",
+  "license": "MIT",
+  "type": "commonjs",
+  "devDependencies": {
+    "@playwright/test": "^1.64.1",
+    "typescript": "^7.0.2"
+  }
+}
